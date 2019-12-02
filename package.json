@@ -4,11 +4,13 @@
   "description": "heroku upload",
   "main": "app.js",
   "scripts": {
-    "test": "file upload "
+    "test": "file upload ",
+    "start":"node app.js"
   },
   "author": "jithin",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "engines": {"node":"8.x"}
 }
