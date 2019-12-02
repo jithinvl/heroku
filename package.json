@@ -1,0 +1,14 @@
+{
+  "name": "herocu",
+  "version": "1.0.0",
+  "description": "heroku upload",
+  "main": "app.js",
+  "scripts": {
+    "test": "file upload "
+  },
+  "author": "jithin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
